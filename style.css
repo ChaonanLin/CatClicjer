@@ -1,0 +1,44 @@
+img {
+    width: 60%;
+    margin:10px 15% 0px 15%;
+    position: relative;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.admin-section {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.admin {
+    width: 20%;
+    margin-left: 15%;
+}
+
+#InputForms {
+    width:65%;
+}
+
+.hide {
+    display: none;
+}
